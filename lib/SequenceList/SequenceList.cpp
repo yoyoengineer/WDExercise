@@ -2,12 +2,6 @@
 #define SEQUENCELIST_C
 
 #include "sequenceList.h"
-#include "../Status.h"
-
-void PrintElem(ElemType e)
-{
-	printf("%d ", e);
-}
 
 Status InitList_Sq(SqList *L){
 	L->data = (ElemType*)malloc(LIST_INIT_SIZE*sizeof(ElemType));

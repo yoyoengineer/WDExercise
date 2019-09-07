@@ -1,6 +1,23 @@
 <Projects version="2.0">
 	<Project active="1">DataStructure.cfp</Project>
-	<File active="0">lib\Status.h</File>
+	<File active="1">main.cpp</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_8.h</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_8.cpp</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_6.cpp</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_6.h</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_5.cpp</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_4.cpp</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_2.h</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_3.h</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_3.cpp</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_4.h</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_2.cpp</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_1.cpp</File>
+	<File active="0">Chapter2\Section3\TWO_THREE_1.h</File>
+	<File active="0">lib\Utils.h</File>
+	<File active="0">lib\Utils.cpp</File>
+	<File active="0">lib\LinkList\LinkList.h</File>
+	<File active="0">lib\LinkList\LinkList.cpp</File>
 	<File active="0">lib\SequenceList\SequenceList.h</File>
-	<File active="1">lib\SequenceList\SequenceList.cpp</File>
+	<File active="0">lib\Status.h</File>
 </Projects>
